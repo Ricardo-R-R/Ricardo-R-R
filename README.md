@@ -5,11 +5,11 @@
   - *Java*
   - *Python*
 **Others**
-    -*CSS*
-    -*HTML*
-    -*JavaScript*
-    -*PHP*
-    -*SQL*
+  - *CSS*
+  - *HTML*
+  - *JavaScript*
+  - *PHP*
+  - *SQL*
 <!--
 **Ricardo-R-R/Ricardo-R-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
