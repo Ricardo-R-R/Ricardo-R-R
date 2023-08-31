@@ -6,7 +6,6 @@
   - *Python*
 
 `code`
-<br>
 -
 **Others**
   - *CSS*
