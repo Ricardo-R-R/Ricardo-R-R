@@ -1,4 +1,4 @@
-# Programming
+# Programming, Playing & Learning
 ### Hi there 👋
 **Favorite Lenguages**
   - *C*
