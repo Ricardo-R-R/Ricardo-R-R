@@ -5,8 +5,6 @@
   - *Java*
   - *Python*
 
-`code`
--
 **Others**
   - *CSS*
   - *HTML*
